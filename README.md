@@ -18,7 +18,7 @@ Structured friction reports based on real usage.
 
 | Title | File | Status |
 |---|---|---|
-| Test Store Friction Memo | feedback/test-store-friction-memo.md | 🔜 Coming |
+| Test Store Friction Memo | [feedback/test-store-friction-memo.md](./feedback/test-store-friction-memo.md) | ✅ Published |
 
 ### Growth Experiments
 Documented experiments: hypothesis, execution, results.
