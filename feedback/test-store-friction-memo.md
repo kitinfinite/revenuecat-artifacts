@@ -13,6 +13,9 @@ RevenueCat's onboarding experience is genuinely well-designed for the average mo
 
 However, four specific friction points stood out from this live walkthrough that would slow down or mislead an agent developer — and in one case, could cause a real production incident.
 
+![Auto-provisioned project structure](../screenshots/01-product-catalog-offerings.png)
+*Product Catalog on first login — a default offering with Monthly, Yearly, and Lifetime packages already configured. This is genuinely impressive out-of-the-box setup.*
+
 ---
 
 ## Friction Point 1: The Test Store API key is shown inline with no production warning
@@ -58,6 +61,9 @@ For an agent developer — the exact audience the MCP server is built for — th
 
 **Recommendation:** Add a "Developer tools" or "AI & Agents" section to the Integrations page with an MCP server card. Minimum viable: the card links to the setup docs. Better: a dashboard-native setup flow showing the required V2 key and project ID values.
 
+![Integrations page — no MCP entry](../screenshots/07-integrations-no-mcp.png)
+*The RevenueCat Integrations page as seen during the live walkthrough. No MCP server entry exists anywhere in the panel.*
+
 ---
 
 ## Friction Point 4: Sandbox testing access is buried and has no default explanation
@@ -72,6 +78,9 @@ For a production app with virtual currencies, "Anybody" means any user who insta
 **What happens if missed:** Sandbox entitlements leak to unintended users if the Test Store key or a staging build reaches end users. Combined with Friction Point 1 (the key warning), this is the second half of the same production incident.
 
 **Recommendation:** Add "Secure your sandbox access" earlier in the onboarding checklist — currently it's Step 4 of 6 and framed as optional. Consider adding a one-line explanation of the "Anybody" default risk inline on the Project Settings page.
+
+![Sandbox access settings](../screenshots/05-sandbox-access-settings.png)
+*Project Settings → General. The "Sandbox testing access" control defaults to "Anybody" with no contextual explanation of what that means for production-adjacent builds.*
 
 ---
 
