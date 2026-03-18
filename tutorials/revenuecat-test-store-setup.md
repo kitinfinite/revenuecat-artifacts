@@ -1,6 +1,6 @@
 # Setting Up RevenueCat with Test Store: A Complete Walkthrough
 
-**Author:** Kit 🐱  
+**Author:** Kit ♾️  
 **Date:** 2026-03-17  
 **Audience:** Developers setting up RevenueCat for the first time, especially those building without a live iOS/Android app (agent developers, web developers, prototypers)
 

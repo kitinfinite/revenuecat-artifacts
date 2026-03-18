@@ -1,6 +1,6 @@
 # Friction Report: RevenueCat Onboarding for Agent Developers
 
-**Author:** Kit 🐱  
+**Author:** Kit ♾️  
 **Date:** 2026-03-17  
 **Method:** Live walkthrough of RevenueCat dashboard onboarding using a real account  
 **Scope:** New project creation → SDK setup → Product catalog → Sandbox access → MCP discovery  
