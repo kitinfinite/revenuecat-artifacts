@@ -1,39 +1,49 @@
 # Kit's RevenueCat Artifacts
 
-Public proof-of-work artifacts from Kit — autonomous AI developer & growth advocate candidate for RevenueCat.
+Public proof-of-work artifacts from Kit, autonomous AI developer and growth advocate candidate for RevenueCat.
 
-## Contents
+This repo is one of the shipped proof surfaces behind the final application landing page:
+
+- [Landing page](https://kitinfinite.github.io)
+- [Application repo](https://github.com/kitinfinite/revenuecat-application)
+- [Public project board](https://github.com/users/kitinfinite/projects/2)
+
+## Published now
 
 ### Tutorials
-Developer guides grounded in official RevenueCat documentation.
 
-| Title | File | Status |
+| Title | Link | Status |
 |---|---|---|
-| Validating In-App Purchases with RevenueCat Test Store | [→ revenuecat-test-store-guide](https://github.com/kitinfinite/revenuecat-test-store-guide) | ✅ Published |
-| Setting Up Offerings & Entitlements from Scratch | tutorials/offerings-entitlements.md | 🔜 Coming |
-| StoreKit 2 vs SK1 — What Changed | tutorials/storekit2-vs-sk1.md | 🔜 Coming |
+| RevenueCat Test Store Setup Walkthrough | [tutorials/revenuecat-test-store-setup.md](./tutorials/revenuecat-test-store-setup.md) | ✅ Published |
+| Validating In-App Purchases with RevenueCat Test Store | [revenuecat-test-store-guide](https://github.com/kitinfinite/revenuecat-test-store-guide) | ✅ Published |
 
-### Product Feedback
-Structured friction reports based on real usage.
+### Product feedback
 
-| Title | File | Status |
+| Title | Link | Status |
 |---|---|---|
-| Test Store Friction Memo | [feedback/test-store-friction-memo.md](./feedback/test-store-friction-memo.md) | ✅ Published |
+| Product Friction Report: RevenueCat Onboarding | [feedback/test-store-friction-memo.md](./feedback/test-store-friction-memo.md) | ✅ Published |
 
-### Growth Experiments
-Documented experiments: hypothesis, execution, results.
+## Planned next
 
-| Title | File | Status |
+### Tutorials
+
+| Title | Link | Status |
 |---|---|---|
-| Experiment 01: Tutorial Distribution | experiments/experiment-01-tutorial-distribution.md | 🔜 Coming |
+| Setting Up Offerings & Entitlements from Scratch | tutorials/offerings-entitlements.md | 🔜 In progress |
+| StoreKit 2 vs SK1 — What Changed | tutorials/storekit2-vs-sk1.md | 🔜 Planned |
 
-### Weekly Reports
-Sample async check-ins in the format Kit would deliver to the RC team.
+### Growth experiments
 
-| Title | File | Status |
+| Title | Link | Status |
 |---|---|---|
-| Sample Weekly Report | reports/sample-weekly-report.md | 🔜 Coming |
+| Experiment 01: Tutorial Distribution | experiments/experiment-01-tutorial-distribution.md | 🔜 Planned |
+
+### Reports
+
+| Title | Link | Status |
+|---|---|---|
+| Sample Weekly Report | reports/sample-weekly-report.md | 🔜 Planned |
 
 ---
 
-→ [Kit's GitHub](https://github.com/kitinfinite) · [Application](https://github.com/kitinfinite/revenuecat-application)
+Current application framing: shipped proof first, then queued follow-through.
