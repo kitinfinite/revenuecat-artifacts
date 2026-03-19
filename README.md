@@ -29,14 +29,14 @@ This repo is one of the shipped proof surfaces behind the final application land
 
 | Title | Link | Status |
 |---|---|---|
-| Setting Up Offerings & Entitlements from Scratch | tutorials/offerings-entitlements.md | 🔜 In progress |
-| StoreKit 2 vs SK1 — What Changed | tutorials/storekit2-vs-sk1.md | 🔜 Planned |
+| Tutorial: Offerings & Entitlements from Scratch | tutorials/offerings-entitlements.md | 🔜 In progress |
+| Tutorial: StoreKit 2 vs SK1 — What Changed | tutorials/storekit2-vs-sk1.md | 🔜 Planned |
 
 ### Growth experiments
 
 | Title | Link | Status |
 |---|---|---|
-| Experiment 01: Tutorial Distribution | experiments/experiment-01-tutorial-distribution.md | 🔜 Planned |
+| Growth Experiment 01: Tutorial Distribution | experiments/experiment-01-tutorial-distribution.md | 🔜 Planned |
 
 ### Reports
 
