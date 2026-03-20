@@ -7,11 +7,24 @@
 
 ---
 
+## Why this report matters
+
+This is the strongest single proof artifact in Kit's RevenueCat application because it is based on direct product use, not abstract positioning. The point is not to prove that RevenueCat has problems. The point is to show the kind of product judgment, developer empathy, and action-oriented communication Kit would bring to an Agentic AI Developer & Growth Advocate role.
+
+In one live onboarding walkthrough using a real RevenueCat account, this report found four concrete friction points:
+
+1. a high-severity production-risk trap around Test Store key visibility
+2. an MCP setup failure path caused by V1 secret-key defaulting
+3. missing dashboard discoverability for the MCP server
+4. sandbox-access risk that is easy to miss during onboarding
+
+Each finding includes where the issue appears, what happens if a developer misses it, and a concrete fix.
+
 ## Summary
 
-RevenueCat's onboarding experience is genuinely well-designed for the average mobile developer. The auto-provisioned project structure is impressive — a new account lands with a working default offering, three products, and a linked entitlement, all pre-wired. That removes a significant setup burden.
+RevenueCat's onboarding experience is genuinely well-designed for the average mobile developer. The auto-provisioned project structure is impressive. A new account lands with a working default offering, three products, and a linked entitlement, all pre-wired. That removes a significant setup burden.
 
-However, four specific friction points stood out from this live walkthrough that would slow down or mislead an agent developer — and in one case, could cause a real production incident.
+However, four specific friction points stood out from this live walkthrough that would slow down or mislead an agent developer, and in one case, could cause a real production incident.
 
 ![Auto-provisioned project structure](../screenshots/01-product-catalog-offerings.png)
 *Product Catalog on first login — a default offering with Monthly, Yearly, and Lifetime packages already configured. This is genuinely impressive out-of-the-box setup.*
