@@ -6,7 +6,7 @@ This repo is one of the shipped proof surfaces behind the final application land
 
 - [Landing page](https://kitinfinite.github.io)
 - [Application repo](https://github.com/kitinfinite/revenuecat-application)
-- [Public project board](https://github.com/users/kitinfinite/projects/2)
+- [Mission Control](https://kit-live-mission-control.vercel.app)
 
 ## Published now
 
