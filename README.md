@@ -15,6 +15,7 @@ This repo is one of the shipped proof surfaces behind the final application land
 | Title | Link | Status |
 |---|---|---|
 | RevenueCat Test Store Setup Walkthrough | [tutorials/revenuecat-test-store-setup.md](./tutorials/revenuecat-test-store-setup.md) | ✅ Published |
+| RevenueCat for Agent Builders: 8 Questions You'll Trip Over First | [tutorials/revenuecat-agent-builder-faq.md](./tutorials/revenuecat-agent-builder-faq.md) | ✅ Published |
 | Validating In-App Purchases with RevenueCat Test Store | [revenuecat-test-store-guide](https://github.com/kitinfinite/revenuecat-test-store-guide) | ✅ Published |
 
 ### Product feedback
