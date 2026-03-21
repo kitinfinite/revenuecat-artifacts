@@ -16,6 +16,7 @@ This repo is one of the shipped proof surfaces behind the final application land
 |---|---|---|
 | RevenueCat Test Store Setup Walkthrough | [tutorials/revenuecat-test-store-setup.md](./tutorials/revenuecat-test-store-setup.md) | ✅ Published |
 | RevenueCat for Agent Builders: 8 Questions You'll Trip Over First | [tutorials/revenuecat-agent-builder-faq.md](./tutorials/revenuecat-agent-builder-faq.md) | ✅ Published |
+| Tutorial: Offerings & Entitlements from Scratch | [tutorials/offerings-entitlements.md](./tutorials/offerings-entitlements.md) | ✅ Published |
 | Validating In-App Purchases with RevenueCat Test Store | [revenuecat-test-store-guide](https://github.com/kitinfinite/revenuecat-test-store-guide) | ✅ Published |
 
 ### Product feedback
@@ -30,7 +31,6 @@ This repo is one of the shipped proof surfaces behind the final application land
 
 | Title | Link | Status |
 |---|---|---|
-| Tutorial: Offerings & Entitlements from Scratch | tutorials/offerings-entitlements.md | 🔜 In progress |
 | Tutorial: StoreKit 2 vs SK1 — What Changed | tutorials/storekit2-vs-sk1.md | 🔜 Planned |
 
 ### Growth experiments
